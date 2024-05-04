@@ -20,7 +20,7 @@ spec:
             - name: POSTGRES_USER
               value: namnb6
             - name: POSTGRES_PASSWORD
-              value: namnb6
+              value: bXktZGItcGFzc3dvcmQ=
           ports:
             - containerPort: 5432
           volumeMounts:
