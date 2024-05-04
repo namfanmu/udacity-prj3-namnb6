@@ -5,5 +5,5 @@ metadata:
 data:
   DB_USERNAME: 'namnb6'
   DB_NAME: 'coworking'
-  DB_HOST: '10.100.185.198'
+  DB_HOST: 'postgresql-service.default.svc.cluster.local'
   DB_PORT: '5432'
