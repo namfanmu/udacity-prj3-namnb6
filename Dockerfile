@@ -18,4 +18,4 @@ EXPOSE 5000
 ENV NAME PRD
 
 # Run the application when the container starts
-CMD ["python", "app.py"]
+CMD [ "python3", "app.py" ]
